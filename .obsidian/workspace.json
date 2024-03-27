@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "1b9cf9c128fbbe95",
+    "type": "split",
+    "children": [
+      {
+        "id": "005fc92be01babe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b0b1351c7ba166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efe37359b45cfbf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ae915d020276cee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0601936e44399434",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4bc3ccadecac7481",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3309348cfa200c69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c382d9eb3f9bbee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "61545e21c57b2f7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "170fb894af2bce3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae471c2fc0f01abc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7b2df23191d9510",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "538cb85f06f67813",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md"
+              }
+            }
+          },
+          {
+            "id": "6ad5805d59909f02",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "84b0b1351c7ba166",
+  "lastOpenFiles": [
+    "Ardencross/Notes/City/Council/Peasants Coalition/Peasants Top Level.md",
+    "Ardencross/Notes/City/Council/Wardens of the Cross/Wardens Top Level.md",
+    "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
+    "Ardencross/Notes/City/Council/Noble Families/Nobles Top Level.md",
+    "Ardencross/Notes/City/Council/Merchants Consortium/Merchants Top Level.md",
+    "Ardencross/Notes/City/Council/Gilded Hand/Artisans Top Level.md",
+    "Ardencross/Notes/City/Council/Church of Lathander/Church Top Level.md",
+    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars/Assemble of Arcane Scholars Top Level.md",
+    "Ardencross/Notes/City/Council/Wardens of the Cross",
+    "Ardencross/Notes/City/Council/Peasants Coalition",
+    "Ardencross/Notes/City/Council/Pacifist League",
+    "Ardencross/Notes/City/Council/Noble Families",
+    "Ardencross/Notes/City/Council/Merchants Consortium",
+    "Ardencross/Notes/City/Council/Gilded Hand",
+    "Ardencross/Notes/City/Council/Church of Lathander",
+    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars",
+    "Ardencross/Notes/City/Council/Untitled.md",
+    "Ardencross/Notes/City/Council/Council.md",
+    "Ardencross/Images/Ardencross.jpg",
+    "Ardencross/Map.md"
+  ]
+}
