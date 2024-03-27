@@ -1,6 +1,5 @@
 ```leaflet  
-### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
-### id must be unique  
+ 
 id: update-me  
 image: [[Ardencross.jpg]]  
 height: 1000px  

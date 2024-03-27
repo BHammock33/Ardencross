@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
+                "file": "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
+                "file": "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
+                "file": "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md"
+                "file": "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md"
               }
             }
           },
@@ -133,7 +133,20 @@
             "id": "6ad5805d59909f02",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_0baaa9e8e9ba",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 9,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
             }
           }
         ],
@@ -157,14 +170,17 @@
   },
   "active": "84b0b1351c7ba166",
   "lastOpenFiles": [
+    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars/Assembly of Arcane Scholars Top Level.md",
+    "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
+    "Ardencross/Map.md",
+    "Ardencross/Notes/Campaign",
+    "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
     "Ardencross/Notes/City/Council/Peasants Coalition/Peasants Top Level.md",
     "Ardencross/Notes/City/Council/Wardens of the Cross/Wardens Top Level.md",
-    "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
     "Ardencross/Notes/City/Council/Noble Families/Nobles Top Level.md",
     "Ardencross/Notes/City/Council/Merchants Consortium/Merchants Top Level.md",
     "Ardencross/Notes/City/Council/Gilded Hand/Artisans Top Level.md",
     "Ardencross/Notes/City/Council/Church of Lathander/Church Top Level.md",
-    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars/Assemble of Arcane Scholars Top Level.md",
     "Ardencross/Notes/City/Council/Wardens of the Cross",
     "Ardencross/Notes/City/Council/Peasants Coalition",
     "Ardencross/Notes/City/Council/Pacifist League",
@@ -175,7 +191,6 @@
     "Ardencross/Notes/City/Council/Assembly of Arcane Scholars",
     "Ardencross/Notes/City/Council/Untitled.md",
     "Ardencross/Notes/City/Council/Council.md",
-    "Ardencross/Images/Ardencross.jpg",
-    "Ardencross/Map.md"
+    "Ardencross/Images/Ardencross.jpg"
   ]
 }
