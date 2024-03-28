@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "005fc92be01babe1",
+        "id": "4d454e56a05d9f72",
         "type": "tabs",
         "children": [
           {
-            "id": "84b0b1351c7ba166",
+            "id": "16af858bcdb1fbdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
+                "file": "Ardencross/Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
+                "file": "Ardencross/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
+                "file": "Ardencross/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md"
+                "file": "Ardencross/Map.md"
               }
             }
           },
@@ -150,11 +150,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,33 +164,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "84b0b1351c7ba166",
+  "active": "16af858bcdb1fbdc",
   "lastOpenFiles": [
-    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars/Assembly of Arcane Scholars Top Level.md",
-    "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
+    "Ardencross/Images/WorkingArea.jpg",
+    "Ardencross/Images/Ardencross.jpg",
+    "Ardencross/Images/Region.md",
+    "WorkingArea.jpg",
     "Ardencross/Map.md",
-    "Ardencross/Notes/Campaign",
-    "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
+    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars/Assembly of Arcane Scholars Top Level.md",
+    "Ardencross/Notes/Boyz Notes/PCS.md",
+    "Ardencross/Notes/Boyz Notes/NPCS.md",
+    "Ardencross/Notes/Regional Locations/Sunset Monastery/Sunset Monastery.md",
+    "Ardencross/Notes/Session 0.md",
+    "Ardencross/Notes/Regional Locations/Sunset Monastery",
+    "Ardencross/Notes/Regional Locations/Candlekeep/Candlekeep.md",
+    "Ardencross/Notes/Regional Locations/Candlekeep",
+    "Ardencross/Notes/Regional Locations",
+    "Ardencross/Notes/City/Council/Merchants Consortium/Merchants Top Level.md",
+    "Church.md",
+    "Peasants Coalition.md",
     "Ardencross/Notes/City/Council/Peasants Coalition/Peasants Top Level.md",
+    "Ardencross/Notes/Boyz Notes",
+    "Ardencross/Notes/City/Council/Church of Lathander/Church Top Level.md",
+    "Ardencross/Notes/City/Council/Gilded Hand/Artisans Top Level.md",
+    "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
+    "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
+    "Ardencross/Notes/Campaign",
     "Ardencross/Notes/City/Council/Wardens of the Cross/Wardens Top Level.md",
     "Ardencross/Notes/City/Council/Noble Families/Nobles Top Level.md",
-    "Ardencross/Notes/City/Council/Merchants Consortium/Merchants Top Level.md",
-    "Ardencross/Notes/City/Council/Gilded Hand/Artisans Top Level.md",
-    "Ardencross/Notes/City/Council/Church of Lathander/Church Top Level.md",
     "Ardencross/Notes/City/Council/Wardens of the Cross",
     "Ardencross/Notes/City/Council/Peasants Coalition",
     "Ardencross/Notes/City/Council/Pacifist League",
     "Ardencross/Notes/City/Council/Noble Families",
     "Ardencross/Notes/City/Council/Merchants Consortium",
-    "Ardencross/Notes/City/Council/Gilded Hand",
-    "Ardencross/Notes/City/Council/Church of Lathander",
-    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars",
     "Ardencross/Notes/City/Council/Untitled.md",
-    "Ardencross/Notes/City/Council/Council.md",
-    "Ardencross/Images/Ardencross.jpg"
+    "Ardencross/Notes/City/Council/Council.md"
   ]
 }

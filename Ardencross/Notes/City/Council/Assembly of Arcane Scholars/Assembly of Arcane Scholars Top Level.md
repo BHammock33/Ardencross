@@ -11,4 +11,5 @@
 	1. Granddaughter of High Lady Alustriel Silverhand
 	2. Representative of Silverymoon, specializes in Divination
 	3. She is for the creation of the circle, Sliverymoon is surrounded by the Mylthas an arcane barrier
-4. 
+4. [[NPCS | Dagnir]] Dwarf young, new grad
+	1. From [[Candlekeep]] knows [[PCS | Eevaldee]] 
