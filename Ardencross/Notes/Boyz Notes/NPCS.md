@@ -6,7 +6,7 @@ These are the characters the boys sent me:
 Knows a lot of folks because he is the "errand boy"
 **Eileen** - Half-Orc that runs bar in Ardencross that **Glaurunga** lives at
 
-**Leonid Fogrest** - Main contact in the town. Connected with [[Peasants Coalition]] or the [[Merchants Top Level | The Church]]
+**Leonid Fogrest** - Main contact in the town. Connected with [[Peasants Top Level |Peasants Coalition]] or the [[Church Top Level| The Church]]
 
 
 ## John/Evaldee
