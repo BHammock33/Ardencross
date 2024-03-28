@@ -3,7 +3,7 @@
     {
       "id": "region",
       "locked": true,
-      "lastAccessed": 1711600265180,
+      "lastAccessed": 1711602008297,
       "markers": [
         {
           "id": "ID_3a393bf938e8",
@@ -69,7 +69,7 @@
     {
       "id": "update-me",
       "locked": true,
-      "lastAccessed": 1711600265180,
+      "lastAccessed": 1711602008297,
       "markers": [
         {
           "id": "ID_bacbdb2a2af8",
@@ -224,6 +224,23 @@
           "command": false,
           "percent": null,
           "description": "Peasants Coalition",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18ebd90b9899",
+          "type": "default",
+          "loc": [
+            -0.0023763179779052734,
+            0.009969711303710938
+          ],
+          "link": "EileensB",
+          "layer": "%5B%5BArdencross.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Eileens (Nob's Tavern)",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

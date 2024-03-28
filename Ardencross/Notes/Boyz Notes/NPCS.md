@@ -4,7 +4,7 @@ These are the characters the boys sent me:
 **Pontius XIV** - head of the [[Sunset Monastery]]
  **Girard** - Main homie, fancy half-elf, was hedonist, now monk
 Knows a lot of folks because he is the "errand boy"
-**Eileen** - Half-Orc that runs bar in Ardencross that **Glaurunga** lives at
+**Eileen** - Half-Orc that runs bar[[EileensB.jpg | Nobs Tavern]] in Ardencross that **Glaurunga** lives at
 
 **Leonid Fogrest** - Main contact in the town. Connected with [[Peasants Top Level |Peasants Coalition]] or the [[Church Top Level| The Church]]
 
