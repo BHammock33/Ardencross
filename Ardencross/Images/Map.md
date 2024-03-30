@@ -1,5 +1,4 @@
 ```leaflet  
- 
 id: update-me  
 image: [[Ardencross.jpg]]  
 height: 1000px  

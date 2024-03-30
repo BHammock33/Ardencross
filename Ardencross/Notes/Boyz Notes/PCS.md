@@ -1,5 +1,5 @@
 
-# Eevaldee
+# Eevaldee New grad, young
 ### Gnome Chronology Wizard College Grad
 
 # Bob Ross (Bob'a'Raz-dul) Upper 50's

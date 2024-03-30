@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ardencross/Images/EileensB.md",
+                "file": "Ardencross/Notes/Rules/Rules Changes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ardencross/Images/EileensB.md",
+                "file": "Ardencross/Notes/Rules/Rules Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ardencross/Images/EileensB.md",
+                "file": "Ardencross/Notes/Rules/Rules Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ardencross/Images/EileensB.md"
+                "file": "Ardencross/Notes/Rules/Rules Changes.md"
               }
             }
           },
@@ -171,10 +171,21 @@
   "active": "27407230b392ad95",
   "lastOpenFiles": [
     "Ardencross/Images/Map.md",
-    "Ardencross/Images/Ardencross.jpg",
-    "Ardencross/Images/EileensB.md",
-    "Ardencross/Images/EileensB.jpg",
+    "Ardencross/Notes/Rules/Rules Changes.md",
+    "Ardencross/Notes/Rules",
+    "Ardencross/Notes/Campaign/Tarrasque Line/Tarrasque Thread.md",
+    "Ardencross/Notes/Boyz Notes/PCS.md",
+    "Ardencross/Notes/Campaign/The Radiant Vanguard/The Radiant Vanguard.md",
+    "Ardencross/Notes/Campaign/The Radiant Vanguard",
+    "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
+    "Ardencross/Notes/Campaign/Demons Line",
+    "Ardencross/Notes/Campaign/Circle Line",
+    "Ardencross/Notes/Campaign/Tarrasque Line",
+    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars/Assembly of Arcane Scholars Top Level.md",
     "Ardencross/Notes/Boyz Notes/NPCS.md",
+    "Ardencross/Images/EileensB.jpg",
+    "Ardencross/Images/EileensB.md",
+    "Ardencross/Images/Ardencross.jpg",
     "Ardencross/Images/Eileens.jpg",
     "README.md",
     "Ardencross/Notes/City/Council/Merchants Consortium/Merchants Top Level.md",
@@ -182,8 +193,6 @@
     "Ardencross/Images/WorkingArea.jpg",
     "WorkingArea.jpg",
     "Ardencross/Images/Region.md",
-    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars/Assembly of Arcane Scholars Top Level.md",
-    "Ardencross/Notes/Boyz Notes/PCS.md",
     "Ardencross/Notes/Regional Locations/Sunset Monastery/Sunset Monastery.md",
     "Ardencross/Notes/Session 0.md",
     "Ardencross/Notes/Regional Locations/Sunset Monastery",
@@ -196,15 +205,9 @@
     "Ardencross/Notes/City/Council/Church of Lathander/Church Top Level.md",
     "Ardencross/Notes/City/Council/Gilded Hand/Artisans Top Level.md",
     "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
-    "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
     "Ardencross/Notes/Campaign",
     "Ardencross/Notes/City/Council/Wardens of the Cross/Wardens Top Level.md",
     "Ardencross/Notes/City/Council/Noble Families/Nobles Top Level.md",
-    "Ardencross/Notes/City/Council/Wardens of the Cross",
-    "Ardencross/Notes/City/Council/Peasants Coalition",
-    "Ardencross/Notes/City/Council/Pacifist League",
-    "Ardencross/Notes/City/Council/Noble Families",
-    "Ardencross/Notes/City/Council/Merchants Consortium",
     "Ardencross/Notes/City/Council/Untitled.md",
     "Ardencross/Notes/City/Council/Council.md"
   ]
