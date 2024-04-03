@@ -1,6 +1,6 @@
 ```leaflet  
 id: update-me  
-image: [[Ardencross.jpg]]  
+image: [[ArdenFinal.jpg]]  
 height: 1000px  
 width: 100%  
 ### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
