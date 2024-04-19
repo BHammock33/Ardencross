@@ -4,53 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "06ac9a8165e3eec4",
+        "id": "1bbf4714eaa737fd",
         "type": "tabs",
         "children": [
           {
-            "id": "27407230b392ad95",
+            "id": "ef133c1bbcd3d68c",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "74ef38e136393367",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "e612ebaba8c74f11",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Ardencross/Images/Map.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "51e282e6f828d1a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ardencross/Images/Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200.5
   },
   "right": {
     "id": "c382d9eb3f9bbee7",
@@ -111,7 +76,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "170fb894af2bce3e",
+            "id": "a7b2df23191d9510",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "908b749b02c1c2cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -127,7 +103,7 @@
             }
           },
           {
-            "id": "ae471c2fc0f01abc",
+            "id": "62672f1a7314416e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -138,18 +114,7 @@
             }
           },
           {
-            "id": "a7b2df23191d9510",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "538cb85f06f67813",
+            "id": "db75a7591d2d961a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -157,7 +122,7 @@
             }
           },
           {
-            "id": "6ad5805d59909f02",
+            "id": "4bdc18eefeb104a8",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -177,19 +142,20 @@
             }
           },
           {
-            "id": "35fef41e249acbe4",
+            "id": "b177100e05ba55fd",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,53 +166,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e612ebaba8c74f11",
+  "active": "ef133c1bbcd3d68c",
   "lastOpenFiles": [
-    "Ardencross/Images/Map.md",
-    "conflict-files-obsidian-git.md",
-    "Ardencross/Images/ArdenFinal.jpg",
-    "Ardencross/Untitled.md",
-    "Ardencross/Images/EileensB.md",
-    "Ardencross/Notes/Campaign/The Radiant Vanguard/The Radiant Vanguard.md",
-    "Ardencross/Images/WorkingArea.jpg",
-    "Ardencross/Books/candlekeep-mysteries-v0-scan-ocr-03-2021-pdf-free.pdf",
-    "Ardencross/Images/ArdencrossFinal.jpg",
-    "Ardencross/Notes/Rules/Rules Changes.md",
-    "Ardencross/Books",
-    "Ardencross/Notes/Rules",
-    "Ardencross/Notes/Campaign/Tarrasque Line/Tarrasque Thread.md",
-    "Ardencross/Notes/Boyz Notes/PCS.md",
-    "Ardencross/Notes/Campaign/The Radiant Vanguard",
-    "Ardencross/Notes/Campaign/3.27.24 Initial Notes.md",
-    "Ardencross/Notes/Campaign/Demons Line",
-    "Ardencross/Notes/Campaign/Circle Line",
-    "Ardencross/Notes/Campaign/Tarrasque Line",
-    "Ardencross/Notes/City/Council/Assembly of Arcane Scholars/Assembly of Arcane Scholars Top Level.md",
-    "Ardencross/Notes/Boyz Notes/NPCS.md",
+    "Ardencross/Session Notes/Session Two The Beginning Begins 4.18.24.md",
+    "Ardencross/Session Notes/HOOKS.md",
+    "Ardencross/Session Notes/Session One.md",
+    "Ardencross/Images/rasgarCS.png",
+    "Ardencross/Images/bobRazCS.png",
+    "Ardencross/Prep and Background Notes/Boyz Notes/PCS.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Specialist CR 4.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Untitled.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Brute CR 2.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Untitled 1.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Champion CR 15.md",
+    "DMOnly/LazyDM/mardown_obsidian/33 - Random Dungeon Monsters.md",
+    "DMOnly/LazyDM/mardown_obsidian/21 - Monster Templates.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/02 - Building a Quick Monster.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/01 - The Lazy GM's 5e Monster Builder Resource Document.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/00 - READ ME FIRST.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Gold Dragon CR 17.md",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Minion CR 1-8.md",
+    "Untitled/Untitled.md",
+    "Untitled",
+    "DMOnly/LazyDM/mardown_obsidian/20 - Monster Difficulty Dials.md",
+    "DMOnly/LazyDM/mardown_obsidian/19 - Zone-Based Combat.md",
+    "DMOnly/LazyDM/mardown_obsidian/16 - Lazy Combat Encounter Building for 5e.md",
+    "Ardencross/Session Notes/SCENES.md",
+    "DMOnly/LazyDM/mardown_obsidian/32 - Random Town Events.md",
+    "DMOnly/LazyDM/mardown_obsidian/10 - Spiral Campaign Development.md",
+    "DMOnly/LazyDM/mardown_obsidian/05 - Creating Secrets and Clues.md",
+    "Ardencross/Prep and Background Notes/Boyz Notes/NPCS.md",
+    "Ardencross/Images/Maps/Regional Map.md",
+    "Ardencross/Images/ivaldi.jpg",
     "Ardencross/Images/EileensB.jpg",
+    "DMOnly/CouncilCanvas.canvas",
+    "DMOnly/Templater",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks",
+    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder",
+    "DMOnly/LazyDM/mardown_obsidian",
+    "DMOnly/LazyDM",
+    "Ardencross/Session Notes",
+    "Ardencross/Images/ArdenFinal.jpg",
+    "DMOnly",
+    "Ardencross/Images/Maps",
+    "Ardencross/Images/SwordHRes.jpg",
+    "Ardencross/Images/Maps",
+    "Ardencross/Images/ArdencrossFinal.jpg",
     "Ardencross/Images/Ardencross.jpg",
-    "Ardencross/Images/Eileens.jpg",
-    "README.md",
-    "Ardencross/Notes/City/Council/Merchants Consortium/Merchants Top Level.md",
-    "Peasants Coalition.md",
-    "WorkingArea.jpg",
-    "Ardencross/Images/Region.md",
-    "Ardencross/Notes/Regional Locations/Sunset Monastery/Sunset Monastery.md",
-    "Ardencross/Notes/Session 0.md",
-    "Ardencross/Notes/Regional Locations/Sunset Monastery",
-    "Ardencross/Notes/Regional Locations/Candlekeep/Candlekeep.md",
-    "Ardencross/Notes/Regional Locations/Candlekeep",
-    "Ardencross/Notes/Regional Locations",
-    "Church.md",
-    "Ardencross/Notes/City/Council/Peasants Coalition/Peasants Top Level.md",
-    "Ardencross/Notes/City/Council/Church of Lathander/Church Top Level.md",
-    "Ardencross/Notes/City/Council/Gilded Hand/Artisans Top Level.md",
-    "Ardencross/Notes/City/Council/Pacifist League/Pacifists Top Level.md",
-    "Ardencross/Notes/City/Council/Wardens of the Cross/Wardens Top Level.md",
-    "Ardencross/Notes/City/Council/Noble Families/Nobles Top Level.md",
-    "Ardencross/Notes/City/Council/Untitled.md"
+    "Ardencross/Images/WorkingArea.jpg",
+    "Ardencross/Images/Eileens.jpg"
   ]
 }

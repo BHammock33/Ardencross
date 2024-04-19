@@ -3,5 +3,11 @@
   "calendarium",
   "obsidian-style-settings",
   "obsidian-leaflet-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "obsidian-dice-roller",
+  "obsidian-5e-statblocks",
+  "templater-obsidian",
+  "dataview",
+  "buttons"
 ]

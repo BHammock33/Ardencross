@@ -3,7 +3,7 @@
     {
       "id": "region",
       "locked": true,
-      "lastAccessed": 1712158083944,
+      "lastAccessed": 1712158850565,
       "markers": [
         {
           "id": "ID_3a393bf938e8",
@@ -83,21 +83,53 @@
       ]
     },
     {
+      "id": "Sword_Map",
+      "locked": false,
+      "lastAccessed": 1712162807333,
+      "markers": [
+        {
+          "id": "ID_188b8adacbab",
+          "type": "PersonOfInterest",
+          "loc": [
+            325.890625,
+            1639
+          ],
+          "link": "ArdenMap",
+          "layer": "%5B%5BSwordHRes.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ardencross",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Ardencross/Images/Maps/Regional Map.md"
+      ]
+    },
+    {
       "id": "update-me",
-      "locked": true,
-      "lastAccessed": 1712158083944,
+      "locked": false,
+      "lastAccessed": 1712163027698,
       "markers": [
         {
           "id": "ID_bacbdb2a2af8",
           "type": "default",
           "loc": [
-            -0.006782054901123047,
-            0.009380340576171875
+            -0.02032470703125,
+            0.0279541015625
           ],
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.5963541666666666,
+            0.578125
+          ],
           "description": "Reynard Drakbin Keep",
           "minZoom": null,
           "maxZoom": null,
@@ -107,14 +139,17 @@
           "id": "ID_1849987b1beb",
           "type": "default",
           "loc": [
-            -0.006209850311279297,
-            0.007701873779296875
+            -0.018817050573567796,
+            0.02319762542039608
           ],
           "link": "Assembly of Arcane Scholars Top Level",
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.49488267563511634,
+            0.5352405496481506
+          ],
           "description": "Assembly of Arcane Scholars",
           "minZoom": null,
           "maxZoom": null,
@@ -124,14 +159,17 @@
           "id": "ID_1909b8eab838",
           "type": "default",
           "loc": [
-            -0.005294322967529297,
-            0.007572174072265625
+            -0.02764892578125,
+            0.0194091796875
           ],
           "link": "Artisans Top Level",
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.4140625,
+            0.7864583333333334
+          ],
           "description": "Gilded Hand",
           "minZoom": null,
           "maxZoom": null,
@@ -141,16 +179,16 @@
           "id": "ID_08db19dbbafa",
           "type": "default",
           "loc": [
-            -0.0049591064453125,
-            0.00688934326171875
+            -0.0145263671875,
+            0.020263671875
           ],
           "link": "Church Top Level",
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.44091796875,
-            0.4231770833333333
+            0.4322916666666667,
+            0.4131944444444444
           ],
           "description": "Church of Lathander",
           "minZoom": null,
@@ -161,13 +199,16 @@
           "id": "ID_b968f86b2b1a",
           "type": "default",
           "loc": [
-            -0.005736827850341797,
-            0.008251190185546875
+            -0.01593017578125,
+            0.0224609375
           ],
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.4791666666666667,
+            0.453125
+          ],
           "description": "Council Hall",
           "minZoom": null,
           "maxZoom": null,
@@ -177,16 +218,16 @@
           "id": "ID_f84adb9bf819",
           "type": "default",
           "loc": [
-            -0.0054931640625,
-            0.008880615234375
+            -0.008544921875,
+            0.02557373046875
           ],
           "link": "Merchants Top Level",
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.568359375,
-            0.46875
+            0.5455729166666666,
+            0.24305555555555555
           ],
           "description": "Merchants Consortium",
           "minZoom": null,
@@ -197,14 +238,17 @@
           "id": "ID_3a5a6b29d938",
           "type": "default",
           "loc": [
-            -0.005057811737060547,
-            0.004016876220703125
+            -0.0147705078125,
+            0.011962890625
           ],
           "link": "Wardens Top Level",
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.2552083333333333,
+            0.4201388888888889
+          ],
           "description": "Wardens of Ardencross",
           "minZoom": null,
           "maxZoom": null,
@@ -214,14 +258,17 @@
           "id": "ID_0b783a7a09fb",
           "type": "default",
           "loc": [
-            -0.005889415740966797,
-            0.006626129150390625
+            -0.0111083984375,
+            0.0225830078125
           ],
           "link": "Nobles Top Level",
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.4817708333333333,
+            0.3159722222222222
+          ],
           "description": "Noble Families",
           "minZoom": null,
           "maxZoom": null,
@@ -231,14 +278,17 @@
           "id": "ID_89f8c95bdb8b",
           "type": "default",
           "loc": [
-            -0.008717654145993322,
-            0.002791807245361621
+            -0.002044677734375,
+            0.0103302001953125
           ],
           "link": "Peasants Coalition",
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.22037760416666666,
+            0.058159722222222224
+          ],
           "description": "Peasants Coalition",
           "minZoom": null,
           "maxZoom": null,
@@ -248,14 +298,17 @@
           "id": "ID_18ebd90b9899",
           "type": "default",
           "loc": [
-            -0.0023763179779052734,
-            0.009969711303710938
+            -0.0068359375,
+            0.0299072265625
           ],
           "link": "EileensB",
           "layer": "%5B%5BArdencross.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.6380208333333334,
+            0.19444444444444445
+          ],
           "description": "Eileens (Nob's Tavern)",
           "minZoom": null,
           "maxZoom": null,
@@ -265,7 +318,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Ardencross/Images/Map.md"
+        "Ardencross/Images/Maps/ArdenMap.md"
       ]
     }
   ],
@@ -279,39 +332,56 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "PersonOfInterest",
+      "iconName": "map-marker-alt",
+      "color": "#0fecf0",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
   "notePreview": false,
   "layerMarkers": true,
-  "previousVersion": "6.0.2",
+  "previousVersion": "6.0.5",
   "version": {
     "major": 6,
     "minor": 0,
-    "patch": 2
+    "patch": 5
   },
   "warnedAboutMapMarker": false,
-  "copyOnClick": false,
+  "copyOnClick": true,
   "displayMarkerTooltips": "hover",
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": false,
-    "defaultZoom": 15,
+    "defaultZoom": -1,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "1000px",
-    "image": "[[WorkingArea.jpg]]",
+    "height": "900px",
+    "image": "[[SwordHRes.jpg]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[WorkingArea.jpg]]"
+      "[[SwordHRes.jpg]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -320,8 +390,8 @@
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 18,
-    "minZoom": 0,
+    "maxZoom": 1.5,
+    "minZoom": -1.5,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
@@ -331,11 +401,24 @@
     "verbose": false,
     "zoomDelta": 0.5,
     "zoomFeatures": false,
-    "id": "region",
+    "id": "Sword_Map",
+    "lock": false,
+    "recenter": true,
+    "noScrollZoom": false,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        1815.18,
+        2805.28
+      ]
+    ],
     "width": "100%",
-    "lat": 50,
-    "long": 50,
-    "unit": "feet",
+    "lat": 1002.64,
+    "long": 2007.59,
+    "unit": "miles",
     "filterTag": []
   },
   "enableDraw": true,

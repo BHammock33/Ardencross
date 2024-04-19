@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"4d99d93dbf3d38c5","type":"text","text":"**Church  of Lathander**\n[[Church Top Level | Grahz Sunheart (Dwarf 190)]] \n","x":-270,"y":-620,"width":250,"height":60},
+		{"id":"56f1e8d3ca512679","type":"text","text":"**Merchants Consortium**\n[[Merchants Top Level| Revenna Sombrall (Yuan-ti 125)]]","x":640,"y":-622,"width":360,"height":62},
+		{"id":"af4e9ab550adc65d","type":"text","text":"**Wardens of The Cross**\n[[Wardens Top Level | Brok Ferojaw (Half-elf 63)]]","x":0,"y":-620,"width":277,"height":60},
+		{"id":"f7995dcea4e670f7","type":"text","text":"**Peasants Coalition**\n[[Peasants Top Level | Yaiarr (Aaracocra 35 Owl flavor)]]  ","x":-820,"y":-620,"width":250,"height":60},
+		{"id":"bbfea12e69cecdf1","type":"text","text":"**Gilded Hand**\n[[Artisans Top Level | Faetina Polwinsi (Gnome 300 )]]","x":-560,"y":-622,"width":250,"height":60},
+		{"id":"e68b3bfe4423a14e","type":"text","text":"**Assembly of Arcane Scholars**\n[[Assembly of Arcane Scholars Top Level | Thelian Nyxaris (High-elf 210)]]","x":307,"y":-620,"width":320,"height":60},
+		{"id":"692554e15fcb7924","type":"text","text":"**The Noble Families**\n[[Nobles Top Level | Lady Matilda Ashby (Human 61) ]]","x":1040,"y":-620,"width":320,"height":60},
+		{"id":"1d055674fcf331fd","type":"text","text":"**The Council** \nReynard Drakbin","x":120,"y":-920,"width":250,"height":60},
+		{"id":"02bb313419229d2b","type":"text","text":"**Dagnir The Dwarf** \nKeeper of Ardencross, representative of Candlekeep. Connected to Evaldee. Young idealistic, wants to build the circle but not at the expense of the people\n","x":344,"y":-408,"width":250,"height":288},
+		{"id":"2517d99199c20bcc","type":"text","text":"**Eileen's Tavern**\nEileen(Half orc) runs a Tavern that Glaurunga (Former Gate Warden at Candlekeep) lives at. ","x":696,"y":-415,"width":250,"height":235}
+	],
+	"edges":[
+		{"id":"7a956d7fe8a03a2f","fromNode":"1d055674fcf331fd","fromSide":"bottom","toNode":"692554e15fcb7924","toSide":"top"},
+		{"id":"bf9e99a8432ba367","fromNode":"1d055674fcf331fd","fromSide":"bottom","toNode":"e68b3bfe4423a14e","toSide":"top"},
+		{"id":"1ed1a00cd4c7fa5a","fromNode":"1d055674fcf331fd","fromSide":"bottom","toNode":"56f1e8d3ca512679","toSide":"top"},
+		{"id":"3b41defec7967434","fromNode":"1d055674fcf331fd","fromSide":"bottom","toNode":"af4e9ab550adc65d","toSide":"top"},
+		{"id":"b672b25d4db56766","fromNode":"1d055674fcf331fd","fromSide":"bottom","toNode":"4d99d93dbf3d38c5","toSide":"top"},
+		{"id":"01bb7e423409c837","fromNode":"1d055674fcf331fd","fromSide":"bottom","toNode":"bbfea12e69cecdf1","toSide":"top"},
+		{"id":"77d7e62b76f225b9","fromNode":"1d055674fcf331fd","fromSide":"bottom","toNode":"f7995dcea4e670f7","toSide":"top"},
+		{"id":"50be65da9ec6353d","fromNode":"e68b3bfe4423a14e","fromSide":"bottom","toNode":"02bb313419229d2b","toSide":"top"},
+		{"id":"a0e2596d62e880f9","fromNode":"56f1e8d3ca512679","fromSide":"bottom","toNode":"2517d99199c20bcc","toSide":"top"}
+	]
+}
