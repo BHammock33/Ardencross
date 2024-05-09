@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0bc4684d4747f9d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ardencross/Images/Maps/Regional Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ardencross/Images/Maps/Regional Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ardencross/Images/Maps/Regional Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ardencross/Images/Maps/Regional Map.md"
+              }
             }
           },
           {
@@ -171,14 +188,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ef133c1bbcd3d68c",
+  "active": "0bc4684d4747f9d5",
   "lastOpenFiles": [
-    "Ardencross/Session Notes/Session Two The Beginning Begins 4.18.24.md",
-    "Ardencross/Session Notes/HOOKS.md",
-    "Ardencross/Session Notes/Session One.md",
+    "Ardencross/Images/Maps/ArdenMap.md",
+    "Ardencross/Images/Maps/Regional Map.md",
     "Ardencross/Images/rasgarCS.png",
-    "Ardencross/Images/bobRazCS.png",
+    "Ardencross/Session Notes/HOOKS.md",
+    "Ardencross/Session Notes/3.27.24 Initial Notes.md",
+    "Ardencross/Prep and Background Notes/City/Council/Church of Lathander/Church Top Level.md",
+    "Ardencross/Prep and Background Notes/Boyz Notes/NPCS.md",
     "Ardencross/Prep and Background Notes/Boyz Notes/PCS.md",
+    "Untitled/Untitled.md",
+    "Ardencross/Session Notes/Session 0.md",
+    "Ardencross/Session Notes/SCENES.md",
+    "Ardencross/Session Notes/Session One.md",
+    "Ardencross/Untitled.md",
+    "Ardencross/Session Notes/Session Two The Beginning Begins 4.18.24.md",
+    "Ardencross/Prep and Background Notes/Rules/Rules Changes.md",
+    "Ardencross/Prep and Background Notes/Regional Locations/Sunset Monastery/Sunset Monastery.md",
+    "DMOnly/CouncilCanvas.canvas",
+    "Untitled.md",
+    "Ardencross/Images/bobRazCS.png",
     "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Specialist CR 4.md",
     "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Untitled.md",
     "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Brute CR 2.md",
@@ -189,22 +219,9 @@
     "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/02 - Building a Quick Monster.md",
     "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/01 - The Lazy GM's 5e Monster Builder Resource Document.md",
     "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/00 - READ ME FIRST.md",
-    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Gold Dragon CR 17.md",
-    "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks/Minion CR 1-8.md",
-    "Untitled/Untitled.md",
     "Untitled",
-    "DMOnly/LazyDM/mardown_obsidian/20 - Monster Difficulty Dials.md",
-    "DMOnly/LazyDM/mardown_obsidian/19 - Zone-Based Combat.md",
-    "DMOnly/LazyDM/mardown_obsidian/16 - Lazy Combat Encounter Building for 5e.md",
-    "Ardencross/Session Notes/SCENES.md",
-    "DMOnly/LazyDM/mardown_obsidian/32 - Random Town Events.md",
-    "DMOnly/LazyDM/mardown_obsidian/10 - Spiral Campaign Development.md",
-    "DMOnly/LazyDM/mardown_obsidian/05 - Creating Secrets and Clues.md",
-    "Ardencross/Prep and Background Notes/Boyz Notes/NPCS.md",
-    "Ardencross/Images/Maps/Regional Map.md",
     "Ardencross/Images/ivaldi.jpg",
     "Ardencross/Images/EileensB.jpg",
-    "DMOnly/CouncilCanvas.canvas",
     "DMOnly/Templater",
     "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder/Statblocks",
     "DMOnly/LazyDM/markdown_obsidian_5e_monster_builder",
